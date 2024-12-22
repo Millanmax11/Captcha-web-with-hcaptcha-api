@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Replace this with your hCaptcha secret key
-SECRET_KEY = "1b08e074-c166-4a5c-9062-bee20a9e2a18"
+SECRET_KEY = "ES_987e.."
 
 # hCaptcha verification endpoint
 VERIFY_URL = "https://api.hcaptcha.com/siteverify"

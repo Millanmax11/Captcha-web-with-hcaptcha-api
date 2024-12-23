@@ -72,7 +72,7 @@ def home():
         <!DOCTYPE html>
         <html>
         <head>
-            <title>hCaptcha Demo</title>
+            <title>hCaptcha- Integration</title>
             <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
             <style>
                 body {

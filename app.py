@@ -117,7 +117,7 @@ def home():
                     <input type="text" name="last_name" placeholder="Last Name" required />
                     <input type="text" name="email" placeholder="Email" required />
                     <input type="password" name="password" placeholder="Password" required />
-                    <div class="h-captcha" data-sitekey="1b08e074-c166-4a5c-9062-bee20a9e2a18"></div>
+                    <div class="h-captcha" data-sitekey="bee67218-8dac-41d2-9aaa-dd1a30d46ea4"></div>
                     <br />
                     <input type="submit" value="Submit" />
                 </form>

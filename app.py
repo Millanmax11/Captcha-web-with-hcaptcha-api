@@ -73,6 +73,9 @@ def home():
         <html>
         <head>
             <title>hCaptcha- Integration</title>
+            <!-- Favicons -->
+          <link href="assets/img/My-Icon.png" rel="icon">
+          <link href="assets/img/My-iconi.png" rel="apple-touch-icon">
             <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
             <style>
                 body {

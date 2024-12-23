@@ -41,6 +41,9 @@ def home():
                 <html>
                 <head>
                     <title>Captcha Success</title>
+                    <!-- Favicons -->
+                  <link href="My-Icon.png" rel="icon">
+                  <link href="My-iconi.png" rel="apple-touch-icon">
                     <style>
                         body {
                             background-color: white;
@@ -74,8 +77,8 @@ def home():
         <head>
             <title>hCaptcha- Integration</title>
             <!-- Favicons -->
-          <link href="assets/img/My-Icon.png" rel="icon">
-          <link href="assets/img/My-iconi.png" rel="apple-touch-icon">
+          <link href="My-Icon.png" rel="icon">
+          <link href="My-iconi.png" rel="apple-touch-icon">
             <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
             <style>
                 body {
